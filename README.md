@@ -11,8 +11,8 @@ This implementation includes:
 
 The code is written in Python and leverages PyTorch and PyTorch Geometric for efficient computation.
 
+![TopoTR](https://github.com/user-attachments/assets/a7e5e309-9cde-4a56-8aa5-beb06b0faba8)
 
-![TopoTR](https://github.com/user-attachments/assets/4e4a4ef1-f145-4a72-a5b4-7a47ed12f422)
 
 
 # Model Architecture
